@@ -23,4 +23,4 @@ Abans de començar, assegura’t de tenir instal·lat:
 Per executar el projecte, fes:
 
 ```bash
-node index.ts
+npm run dev
