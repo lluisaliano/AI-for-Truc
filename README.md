@@ -1,4 +1,4 @@
-# Joc del Truc Menorquí + Bot
+# Inteligència artificial per al Truc Menorquí
 
 Aquest projecte és una implementació d’un bot per jugar al Truc menorquí desenvolupat amb TypeScript que utilitza l'algorisme CFR per a escollir les millors jugades.
 
