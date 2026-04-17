@@ -6,10 +6,10 @@ L’objectiu principal del projecte és modelar la lògica del joc, simular part
 
 ## Característiques
 
-- Implementació de la lògica bàsica del **Truc menorquí**
-- Desenvolupat amb **TypeScript**
-- Estructura preparada per ampliar la simulació de partides
-- Base útil per provar estratègies i algoritmes per a bots de joc
+- Implementació de la lògica del Truc menorquí
+- Aplicació de l'algorisme CFR per al Truc
+- Modelització de les utilitats de cada jugada en cada ronda
+- Base útil per provar estratègies i algoritmes per a jocs d'informació imperfecta
 
 ## Requisits
 
